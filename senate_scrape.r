@@ -1,3 +1,6 @@
+﻿# edit: 
+# change from regex search to html tables
+
 #scrape wiki for US congress info
 
 #### get 50 state names
